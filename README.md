@@ -43,7 +43,7 @@ I have worked a lot with AI's, and even trained some of my own. These include LL
 
 ## Selected Projects
 
-- **[StratumApp (QuantumBitsFLL2025-2026)](https://github.com/PzmuV1517/QuantumBitsFLL2025-2026):**  
+- **Stratum App (link not included due to repo being private):**  
   Full-stack platform for archaeologists to manage and store data, leveraging React, React Native, and a Python backend.
 
 - **[QuickBot](https://github.com/levinismynameirl/Quick-Bot):**  
