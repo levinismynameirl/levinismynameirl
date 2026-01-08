@@ -1,6 +1,6 @@
 # About me
 
-I'm a student and open source contributor focused on backend, automation, AI, and developer tooling. I work extensively with Python, Node.js, React, and a range of modern technologies. My interests include building practical applications, developer tooling, Discord bots, and projects in AI and data processing.
+I'm a student and open source contributor focused on full-stack development, automation, AI, and developer tooling. I work extensively with Python, Node.js, React, and a range of modern technologies. My interests include building practical applications, developer tooling, Discord bots, and projects in AI and data processing.
 
 ## Tech Stack
 
@@ -36,6 +36,10 @@ I'm a student and open source contributor focused on backend, automation, AI, an
   <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
 </p>
+
+## Machine Learning and AI
+
+I have worked a lot with AI's, and even trained some of my own. These include LLM's, detection AI's and trading AI's. I'm actively learning and working with ML to increase my skills in this domain.
 
 ## Selected Projects
 
