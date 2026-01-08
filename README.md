@@ -1,6 +1,6 @@
 # About me
 
-I'm a student and open source contributor focused on full-stack development, automation, AI, and developer tooling. I work extensively with Python, Node.js, React, and a range of modern technologies. My interests include building practical applications, developer tooling, Discord bots, and projects in AI and data processing.
+I'm a student and open source contributor focused on full-stack development, automation, AI, data processing, and developer tooling. I work extensively with Python, Node.js, React, and a range of other tech, most of which you can find in my tech stack below.
 
 ## Tech Stack
 
