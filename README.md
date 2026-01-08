@@ -55,7 +55,5 @@ I'm a student and open source contributor focused on backend, automation, AI, an
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=levinismynameirl&theme=default&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="150">
-  <img src="https://github-readme-stats.vercel.app/api?username=levinismynameirl&show_icons=true&hide_title=true" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levinismynameirl&hide=css,html&layout=compact" alt="Top Languages" height="150">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=levinismynameirl&theme=dark&hide_border=false" alt="GitHub Streak" height="150">  
 </p>
