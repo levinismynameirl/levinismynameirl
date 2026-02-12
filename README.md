@@ -44,7 +44,7 @@ I have worked a lot with AI's, and even trained some of my own. These include LL
 ## Selected Projects
 
 - **Stratum App (link not included due to repo being private):**  
-  Full-stack platform for archaeologists to manage and store data, leveraging React, React Native, and a Python backend.
+  Full-stack platform for archaeologists to manage and store data, made with React, React Native, and a Python backend.
 
 - **[QuickBot](https://github.com/levinismynameirl/Quick-Bot):**  
   macOS CLI tool designed for automation and quality of life improvements in the terminal.  
@@ -54,7 +54,7 @@ I have worked a lot with AI's, and even trained some of my own. These include LL
 ## Interests
 
 - Backend platforms, (although I have and continue to work with frontend as well) automation, developer tools, Discord bots (with a primary focus on Discord.py), data processing, and AI/ML projects.
-- I also enjoy learning and collaborating in the open source/community driven projects and apps.
+- I also enjoy learning and collaborating in the open source/community driven projects and apps ;)
 
 ## GitHub Stats
 
