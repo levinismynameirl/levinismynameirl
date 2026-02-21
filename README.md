@@ -39,12 +39,12 @@ I'm a student and open source contributor focused on full-stack development, aut
 
 ## Machine Learning and AI
 
-I have worked a lot with AI's, and even trained some of my own. These include LLM's, detection AI's and trading AI's. I'm actively learning and working with ML to increase my skills in this domain.
+A lot of my experience comes from working with Machine Learning tools and AI in general. Aside from learning how AI works, I've also trained some of my own, which include but are not limited to LLM's, CNN's, YOLO models, LSTM's, etc.
 
 ## Selected Projects
 
 - **Stratum App (link not included due to repo being private):**  
-  Full-stack platform for archaeologists to manage and store data, made with React, React Native, and a Python backend.
+  Full-stack platform for archaeologists to manage and store data, made with React, React Native, and Python for the backend.
 
 - **[QuickBot](https://github.com/levinismynameirl/Quick-Bot):**  
   macOS CLI tool designed for automation and quality of life improvements in the terminal.  
