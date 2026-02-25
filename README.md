@@ -41,7 +41,9 @@ I'm a student and open source contributor focused on full-stack development, aut
 
 A lot of my experience comes from working with Machine Learning tools and AI in general. Aside from learning how AI works, I've also trained some of my own, which include but are not limited to LLM's, CNN's, YOLO models, LSTM's, etc.
 
-## Selected Projects
+## Projects
+
+**Projects I made or had significant contributions to:**
 
 - **Stratum App (link not included due to repo being private):**  
   Full-stack platform for archaeologists to manage and store data, made with React, React Native, and Python for the backend.
@@ -50,10 +52,18 @@ A lot of my experience comes from working with Machine Learning tools and AI in 
   macOS CLI tool designed for automation and quality of life improvements in the terminal.  
   - [QuickBot Installer](https://github.com/levinismynameirl/QuickBot-Installer): Installer for easy setup  
   - [QuickBot Recipes](https://github.com/levinismynameirl/QuickBot-Recipes): Plugin ecosystem
+ 
+- **[My personal website](https://github.com/levinismynameirl/constlmxyz) and the [Link to the website](https://constlm.xyz)**
+  My personal website. I mostly use this as a portfolio, and I also take advantage of the domain to have some api's on some subdomains public and accesible from anywhere in the world.
+  I will admit, however, that the website's text content is mostly AI generated (not the website's source code, that was made by me) due to me not having much time to fill in the text. That being said, I did fact check what is written and even though it might look weird most of what is said there is real.
+
+**Open source Projects/repos I've contributed to**
+- **[Discord.py](https://github.com/Rapptz/discord.py)**
+  As it's name suggests, (and it's description as well) Discord.py is a Discord API wrapper written in, well, Python. As of writing this, I've had 1 PR merged, which was to fix a bug related to FFmpeg errors.
 
 ## Interests
 
-- Backend platforms, (although I have and continue to work with frontend as well) automation, developer tools, Discord bots (with a primary focus on Discord.py), data processing, and AI/ML projects.
+- Any type of Full Stack app, really. It mostly depends on what it's about, though. As I mentioned above I also find it interesting to work with ML tools and creating AI's.
 - I also enjoy learning and collaborating in the open source/community driven projects and apps ;)
 
 ## GitHub Stats
