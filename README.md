@@ -57,6 +57,12 @@ A lot of my experience comes from working with Machine Learning tools and AI in 
   My personal website. I mostly use this as a portfolio, and I also take advantage of the domain to have some api's on some subdomains public and accesible from anywhere in the world.
   I will admit, however, that the website's text content is mostly AI generated (not the website's source code, that was made by me) due to me not having much time to fill in the text. That being said, I did fact check what is written and even though it might look weird most of what is said there is real.
 
+- **[Liquid-React library](https://github.com/PzmuV1517/liquid-react)
+  Liquid react is a React-Native library me and a good friend of mine made, which exposes Apple's native Liquid Glass components to be used in a React Native project, something you could previously only do in Swift. 
+  "What about the other liquid glass libraries for React?" From the information we've gathered, almost all other libraries do not use Apple's native liquid-glass UI compinents, but rather try to imitate and make their own.
+  Install using npm:
+  `npm install liquid-react`
+
 **Open source Projects/repos I've contributed to**
 - **[Discord.py](https://github.com/Rapptz/discord.py)**
   As it's name suggests, (and it's description as well) Discord.py is a Discord API wrapper written in, well, Python. As of writing this, I've had 1 PR merged, which was to fix a bug related to FFmpeg errors.
